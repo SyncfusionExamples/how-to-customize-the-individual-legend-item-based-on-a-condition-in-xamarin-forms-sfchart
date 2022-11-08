@@ -1,5 +1,7 @@
 # How to customize the individual legend item based on a condition in Xamarin.Forms Chart (SfChart)?
 
+This example demonstrates the customization of individual legend item based on a condition in Xamarin.Forms chart.
+
 You can customize all the legend items by setting individual style using the [LegendItemCreated](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.SfChart.html) event. This event will be fired when a chart legend item is created. For more details about the event arguments, refer to this [documentation](https://help.syncfusion.com/xamarin/sfchart/legend#event).
 
 The following code sample demonstrates how to set individual style to all the legend items.
